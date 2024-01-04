@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\litia\OneDrive\Documents\CMAKE_VCPKG_TEMPLATE\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\litia\OneDrive\Documents\CMAKE_VCPKG_TEMPLATE\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F1DFEB5D-0087-3AE6-B0A6-4E71F1DF4C9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

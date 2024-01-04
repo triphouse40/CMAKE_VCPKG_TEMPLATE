@@ -1,0 +1,10 @@
+^C:\USERS\LITIA\ONEDRIVE\DOCUMENTS\CMAKE_VCPKG_TEMPLATE\BUILD\CMAKEFILES\1E61BE4E6ECE836F3DDDC65C593D0A1F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE -BC:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE/build/CMAKE_VCPKG_TEMPLATE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

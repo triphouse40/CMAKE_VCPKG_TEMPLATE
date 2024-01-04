@@ -1,0 +1,3 @@
+C:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE/build/CMakeFiles/CMAKE_VCPKG_TEMPLATE.dir
+C:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/litia/OneDrive/Documents/CMAKE_VCPKG_TEMPLATE/build/CMakeFiles/ZERO_CHECK.dir
